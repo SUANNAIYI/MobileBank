@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="15dp"
+    tools:context=".ui.notifications.NotificationsFragment">
+
+    <TextView
+        android:layout_width="120dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal"
+        android:text="账户总览"
+        android:textColor="@color/black"
+        android:textSize="25dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/shape_corner"
+        android:orientation="vertical"
+        android:padding="15dp"
+        tools:ignore="MissingConstraints">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="总资产（人民币元）:"
+            android:textColor="@color/black" />
+
+        <TextView
+            android:id="@+id/showmoney"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="385.00"
+            android:textColor="@color/black"
+            android:textSize="28dp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/addcard"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center_horizontal"
+        android:onClick="addcard"
+        android:text="+手动添加银行卡"
+        android:textColor="#0E161C"
+        android:textSize="20dp" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ListView
+            android:id="@+id/Bankcard_MLV_bancardList"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="8"
+
+            />
+
+        <Button
+            android:id="@+id/quit"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="60dp"
+            android:layout_weight="1"
+            android:background="#DF2242"
+            android:text="退出登录"
+            android:textColor="#ffff"
+            android:textSize="20sp"
+            android:typeface="sans" />
+
+    </LinearLayout>
+
+
+</LinearLayout>

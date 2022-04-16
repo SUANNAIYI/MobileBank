@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="regioninfo">
+        <item>中国内地 +86</item>
+        <item>中国香港 +852</item>
+        <item>中国澳门 +853</item>
+    </string-array>
+
+    <string-array name="regioninfoEng">
+        <item>Chinese mainland +86</item>
+        <item>Hong Kong +852</item>
+        <item>Macao +853</item>
+    </string-array>
+</resources>

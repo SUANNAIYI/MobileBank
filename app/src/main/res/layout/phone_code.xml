@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:id="@+id/ll_code"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="7dp"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/Phonecode_TV_code_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:gravity="center"
+                android:textColor="#2D2D2D"
+                android:textSize="40sp" />
+
+            <View
+                android:id="@+id/Phonecode_V_code_1"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#3F8EED" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="7dp"
+            android:layout_marginRight="7dp"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/Phonecode_TV_code_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:gravity="center"
+                android:textColor="#2D2D2D"
+                android:textSize="40sp" />
+
+            <View
+                android:id="@+id/Phonecode_V_code_2"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#999999" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="7dp"
+            android:layout_marginRight="7dp"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/Phonecode_TV_code_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:gravity="center"
+                android:textColor="#2D2D2D"
+                android:textSize="40sp" />
+
+            <View
+                android:id="@+id/Phonecode_V_code_3"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#999999" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="7dp"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/Phonecode_TV_code_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:gravity="center"
+                android:textColor="#2D2D2D"
+                android:textSize="40sp" />
+
+            <View
+                android:id="@+id/Phonecode_V_code_4"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#999999" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/Phonecode_ET_code"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/ll_code"
+        android:layout_alignBottom="@+id/ll_code"
+        android:background="@android:color/transparent"
+        android:cursorVisible="false"
+        android:inputType="number"
+        android:textColor="@android:color/transparent" />
+</RelativeLayout>

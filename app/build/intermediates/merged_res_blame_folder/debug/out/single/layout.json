@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_electricity.xml",
+        "source": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\src\\main\\res\\layout\\activity_electricity.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_notifications.xml",
+        "source": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\src\\main\\res\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_payhistory.xml",
+        "source": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\src\\main\\res\\layout\\activity_payhistory.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_deletecard.xml",
+        "source": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\src\\main\\res\\layout\\activity_deletecard.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item3.xml",
+        "source": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\src\\main\\res\\layout\\item3.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_addcard2.xml",
+        "source": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\src\\main\\res\\layout\\activity_addcard2.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_cardinfo.xml",
+        "source": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\src\\main\\res\\layout\\activity_cardinfo.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item4.xml",
+        "source": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\src\\main\\res\\layout\\item4.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_addcard.xml",
+        "source": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\src\\main\\res\\layout\\activity_addcard.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_remittance.xml",
+        "source": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\src\\main\\res\\layout\\activity_remittance.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item.xml",
+        "source": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_cardfee.xml",
+        "source": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\src\\main\\res\\layout\\activity_cardfee.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_dashboard.xml",
+        "source": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\src\\main\\res\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_card_top_up.xml",
+        "source": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\src\\main\\res\\layout\\activity_card_top_up.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_waterfee.xml",
+        "source": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\src\\main\\res\\layout\\activity_waterfee.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login_forget_psw.xml",
+        "source": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\src\\main\\res\\layout\\activity_login_forget_psw.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_record.xml",
+        "source": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\src\\main\\res\\layout\\activity_record.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item2.xml",
+        "source": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\src\\main\\res\\layout\\item2.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\phone_code.xml",
+        "source": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\src\\main\\res\\layout\\phone_code.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_pay.xml",
+        "source": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\src\\main\\res\\layout\\activity_pay.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_remittance_record.xml",
+        "source": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\src\\main\\res\\layout\\activity_remittance_record.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item5.xml",
+        "source": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\src\\main\\res\\layout\\item5.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login_main.xml",
+        "source": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\src\\main\\res\\layout\\activity_login_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login_register_view.xml",
+        "source": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\src\\main\\res\\layout\\activity_login_register_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login_english_view.xml",
+        "source": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\src\\main\\res\\layout\\activity_login_english_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_bankcard.xml",
+        "source": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\src\\main\\res\\layout\\activity_bankcard.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_schoolfare.xml",
+        "source": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\src\\main\\res\\layout\\activity_schoolfare.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_balance.xml",
+        "source": "D:\\AndroidStudioProjects\\Mobile_Bank\\app\\src\\main\\res\\layout\\activity_balance.xml"
+    }
+]

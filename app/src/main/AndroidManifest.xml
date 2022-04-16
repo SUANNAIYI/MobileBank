@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mobilebank">
+
+    <application
+        android:name=".Data"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MobileBank">
+        <activity
+            android:name=".ui.dashboard.Remit.RemittanceRecord"
+            android:exported="false" />
+        <activity
+            android:name=".ui.dashboard.Remit.RemittanceActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.dashboard.BillingRecords.Record"
+            android:exported="false" />
+        <activity
+            android:name=".ui.showbankcard.addcard"
+            android:exported="false" />
+        <activity
+            android:name=".ui.notifications.Account.Addcard"
+            android:exported="false" />
+        <activity
+            android:name=".ui.login.Login_EnglishView"
+            android:exported="false" />
+        <activity
+            android:name=".ui.login.Login_ForgetPsw"
+            android:exported="false" />
+        <activity
+            android:name=".ui.login.Login_RegisterView"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.dashboard.PayLife.Balance"
+            android:exported="false" />
+        <activity
+            android:name=".ui.dashboard.PayLife.Payhistory"
+            android:exported="false" />
+        <activity
+            android:name=".ui.dashboard.PayLife.CardTopUp"
+            android:exported="false" />
+        <activity
+            android:name=".ui.dashboard.PayLife.Bankcard"
+            android:exported="false" />
+        <activity
+            android:name=".ui.dashboard.PayLife.Cardinfo"
+            android:exported="false" />
+        <activity
+            android:name=".ui.dashboard.PayLife.Cardfee"
+            android:exported="false" />
+        <activity
+            android:name=".ui.dashboard.PayLife.Schoolfare"
+            android:exported="false" />
+        <activity
+            android:name=".ui.dashboard.PayLife.Electricity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.dashboard.PayLife.Waterfee"
+            android:exported="false" />
+        <activity
+            android:name=".ui.dashboard.PayLife.Pay"
+            android:exported="false" />
+        <activity
+            android:name=".ui.login.Login_MainActivity"
+            android:exported="true"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
